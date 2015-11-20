@@ -24,6 +24,6 @@ mongoose.connect('mongodb://127.0.0.1/mongooseTest', function (err) {
     console.log(user.title);
     console.log('All done');
     done();
-  }).catch(done);
+  }, done);
 
 });

@@ -2,9 +2,9 @@
 
 var mongoose = require('mongoose');
 
-var User = require('./user')
-  , Draft = require('./draft')
-  , DraftChange = require('./draftChange');
+var User = require('../user')
+  , Draft = require('../draft')
+  , DraftChange = require('../draftChange');
 
 var done = function (err) {
   if (err) {
