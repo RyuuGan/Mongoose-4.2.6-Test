@@ -5,7 +5,7 @@ Test case for mongoose to show catch not working
 ## Executing
 
 Run `init.js` to be sure all data exists.
-Run any script in `notWorling directory to view examples`.
+Run any script in `notWorling` directory to view examples.
 
 ```
 node -v
