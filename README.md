@@ -4,5 +4,5 @@ Test case for mongoose to show catch not working
 
 ## Executing
 
-Run init test to be sure all data exists.
+Run `init.js` to be sure all data exists.
 Then run `notWorking.js` to see what is not working.
